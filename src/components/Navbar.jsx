@@ -20,7 +20,7 @@ function Navbar() {
                         </Link>
                     </Nav>
                 </NavbarBootstrap.Collapse>
-                <NavbarBootstrap.Brand href="#home">🎂 Happy Cake</NavbarBootstrap.Brand>
+                <NavbarBootstrap.Brand>🎂 Happy Cake</NavbarBootstrap.Brand>
             </Container>
         </NavbarBootstrap>
     );
